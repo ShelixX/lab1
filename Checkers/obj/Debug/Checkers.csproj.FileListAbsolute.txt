@@ -1,0 +1,74 @@
+C:\Users\Tamaz\Desktop\Checkers\Checkers\obj\Debug\Checkers.csproj.AssemblyReference.cache
+C:\Users\Tamaz\Desktop\Checkers\Checkers\obj\Debug\Checkers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tamaz\Desktop\Checkers\Checkers\obj\Debug\Checkers.Form1.resources
+C:\Users\Tamaz\Desktop\Checkers\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+C:\Users\Tamaz\Desktop\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.cache
+C:\Users\Tamaz\Desktop\Checkers\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\Tamaz\Desktop\Checkers\Checkers\bin\Debug\Checkers.exe.config
+C:\Users\Tamaz\Desktop\Checkers\Checkers\bin\Debug\Checkers.exe
+C:\Users\Tamaz\Desktop\Checkers\Checkers\bin\Debug\Checkers.pdb
+C:\Users\Tamaz\Desktop\Checkers\Checkers\obj\Debug\Checkers.exe
+C:\Users\Tamaz\Desktop\Checkers\Checkers\obj\Debug\Checkers.pdb
+C:\Users\Tamaz\Desktop\Ver1\Checkers\Checkers\bin\Debug\Checkers.exe.config
+C:\Users\Tamaz\Desktop\Ver1\Checkers\Checkers\bin\Debug\Checkers.exe
+C:\Users\Tamaz\Desktop\Ver1\Checkers\Checkers\bin\Debug\Checkers.pdb
+C:\Users\Tamaz\Desktop\Ver1\Checkers\Checkers\obj\Debug\Checkers.csproj.AssemblyReference.cache
+C:\Users\Tamaz\Desktop\Ver1\Checkers\Checkers\obj\Debug\Checkers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tamaz\Desktop\Ver1\Checkers\Checkers\obj\Debug\Checkers.Form1.resources
+C:\Users\Tamaz\Desktop\Ver1\Checkers\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+C:\Users\Tamaz\Desktop\Ver1\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.cache
+C:\Users\Tamaz\Desktop\Ver1\Checkers\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\Tamaz\Desktop\Ver1\Checkers\Checkers\obj\Debug\Checkers.exe
+C:\Users\Tamaz\Desktop\Ver1\Checkers\Checkers\obj\Debug\Checkers.pdb
+E:\Ver1\Checkers\Checkers\bin\Debug\Checkers.exe.config
+E:\Ver1\Checkers\Checkers\bin\Debug\Checkers.exe
+E:\Ver1\Checkers\Checkers\bin\Debug\Checkers.pdb
+E:\Ver1\Checkers\Checkers\obj\Debug\Checkers.csproj.AssemblyReference.cache
+E:\Ver1\Checkers\Checkers\obj\Debug\Checkers.csproj.SuggestedBindingRedirects.cache
+E:\Ver1\Checkers\Checkers\obj\Debug\Checkers.Form1.resources
+E:\Ver1\Checkers\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+E:\Ver1\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.cache
+E:\Ver1\Checkers\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+E:\Ver1\Checkers\Checkers\obj\Debug\Checkers.exe
+E:\Ver1\Checkers\Checkers\obj\Debug\Checkers.pdb
+F:\Ver1\Checkers\Checkers\bin\Debug\Checkers.exe.config
+F:\Ver1\Checkers\Checkers\bin\Debug\Checkers.exe
+F:\Ver1\Checkers\Checkers\bin\Debug\Checkers.pdb
+F:\Ver1\Checkers\Checkers\obj\Debug\Checkers.csprojAssemblyReference.cache
+F:\Ver1\Checkers\Checkers\obj\Debug\Checkers.Form1.resources
+F:\Ver1\Checkers\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+F:\Ver1\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.cache
+F:\Ver1\Checkers\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+F:\Ver1\Checkers\Checkers\obj\Debug\Checkers.exe
+F:\Ver1\Checkers\Checkers\obj\Debug\Checkers.pdb
+H:\Курсовой проект. Игра с графическим интерфейсом «Шашки»\SOURCE\Vers 1\Checkers\Checkers\bin\Debug\Checkers.exe.config
+H:\Курсовой проект. Игра с графическим интерфейсом «Шашки»\SOURCE\Vers 1\Checkers\Checkers\bin\Debug\Checkers.exe
+H:\Курсовой проект. Игра с графическим интерфейсом «Шашки»\SOURCE\Vers 1\Checkers\Checkers\bin\Debug\Checkers.pdb
+H:\Курсовой проект. Игра с графическим интерфейсом «Шашки»\SOURCE\Vers 1\Checkers\Checkers\obj\Debug\Checkers.csprojAssemblyReference.cache
+H:\Курсовой проект. Игра с графическим интерфейсом «Шашки»\SOURCE\Vers 1\Checkers\Checkers\obj\Debug\Checkers.Form1.resources
+H:\Курсовой проект. Игра с графическим интерфейсом «Шашки»\SOURCE\Vers 1\Checkers\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+H:\Курсовой проект. Игра с графическим интерфейсом «Шашки»\SOURCE\Vers 1\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.cache
+H:\Курсовой проект. Игра с графическим интерфейсом «Шашки»\SOURCE\Vers 1\Checkers\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+H:\Курсовой проект. Игра с графическим интерфейсом «Шашки»\SOURCE\Vers 1\Checkers\Checkers\obj\Debug\Checkers.exe
+H:\Курсовой проект. Игра с графическим интерфейсом «Шашки»\SOURCE\Vers 1\Checkers\Checkers\obj\Debug\Checkers.pdb
+F:\Vers 1\Checkers\Checkers\bin\Debug\Checkers.exe.config
+F:\Vers 1\Checkers\Checkers\bin\Debug\Checkers.exe
+F:\Vers 1\Checkers\Checkers\bin\Debug\Checkers.pdb
+F:\Vers 1\Checkers\Checkers\obj\Debug\Checkers.csprojAssemblyReference.cache
+F:\Vers 1\Checkers\Checkers\obj\Debug\Checkers.Form1.resources
+F:\Vers 1\Checkers\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+F:\Vers 1\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.cache
+F:\Vers 1\Checkers\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+F:\Vers 1\Checkers\Checkers\obj\Debug\Checkers.exe
+F:\Vers 1\Checkers\Checkers\obj\Debug\Checkers.pdb
+E:\Vers 1\Checkers\Checkers\bin\Debug\Checkers.exe.config
+E:\Vers 1\Checkers\Checkers\bin\Debug\Checkers.exe
+E:\Vers 1\Checkers\Checkers\bin\Debug\Checkers.pdb
+E:\Vers 1\Checkers\Checkers\obj\Debug\Checkers.csproj.AssemblyReference.cache
+E:\Vers 1\Checkers\Checkers\obj\Debug\Checkers.csproj.SuggestedBindingRedirects.cache
+E:\Vers 1\Checkers\Checkers\obj\Debug\Checkers.Form1.resources
+E:\Vers 1\Checkers\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+E:\Vers 1\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.cache
+E:\Vers 1\Checkers\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+E:\Vers 1\Checkers\Checkers\obj\Debug\Checkers.exe
+E:\Vers 1\Checkers\Checkers\obj\Debug\Checkers.pdb
